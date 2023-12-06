@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/lzhudson.png',
     alt: 'Hudson Holanda',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
