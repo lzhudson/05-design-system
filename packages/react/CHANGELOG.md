@@ -1,5 +1,11 @@
 # @lzhudson-ignite-ui/react
 
+## 3.2.0
+
+### Minor Changes
+
+- Add Toast component
+
 ## 3.1.0
 
 ### Minor Changes
